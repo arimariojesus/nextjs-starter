@@ -1,0 +1,6 @@
+node_modules
+.next
+/*.js
+public
+/*.css
+/*.json
